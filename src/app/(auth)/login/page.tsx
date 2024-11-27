@@ -1,5 +1,5 @@
 import React from 'react'
-import Link from 'next/link'
+
 
 
 function Login() {
@@ -36,7 +36,7 @@ function Login() {
       </div>
 
       <div style={{ textAlign: 'center' }}>
-        <p>Don't have an account? <a href="signup-page" style={{ color: '#007bff', textDecoration: 'none' }}>Sign Up</a></p>
+        <p>Don&apos;t have an account? <a href="signup-page" style={{ color: '#007bff', textDecoration: 'none' }}>Sign Up</a></p>
       </div>
     </div>
   )
